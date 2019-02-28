@@ -72,11 +72,11 @@ self.__precacheManifest = [
     "url": "flags/br.svg"
   },
   {
-    "revision": "467c262cb19f40556d88",
+    "revision": "c82606c3da23a330bc21",
     "url": "app.js"
   },
   {
-    "revision": "467c262cb19f40556d88",
+    "revision": "c82606c3da23a330bc21",
     "url": "app.css"
   }
 ];
